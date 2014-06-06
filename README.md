@@ -24,4 +24,4 @@ License
 MIT
 
 [Yo API]:http://bit.ly/yoapi
-[contact us]:api@justyo.co
+[contact us]:mailto:api@justyo.co
